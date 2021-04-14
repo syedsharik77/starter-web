@@ -17,6 +17,8 @@ This is a simple web project, deployment can be on any web server.
 
 ## How To Contribute
 
+Please fork this repository and then issue pull requests for review.
+
 ## CopyRight
 
 2021 Git.Training!.
